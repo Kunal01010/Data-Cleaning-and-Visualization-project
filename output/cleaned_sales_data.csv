@@ -1,0 +1,398 @@
+Date,Region,Category,Product,Quantity,Price,Discount,Sales,Profit,CustomerAge,Rating,Month,Quarter,ProfitMargin,AgeGroup
+2023-03-08,West,Home & Kitchen,Blender,15,213.75,0.1,2885.62,185.96,68.0,2.0,March,Q1,6.44,51-70
+2023-12-19,West,Clothing,Shoes,5,86.21,0.05,409.5,33.28,43.0,3.0,December,Q4,8.13,36-50
+2024-03-09,North,Home & Kitchen,Toaster,11,113.36,0.1,997.57,152.58,40.0,5.0,March,Q1,15.3,36-50
+2023-08-10,West,Food & Beverages,Coffee,10,13.03,0.1,130.3,12.01,54.0,5.0,August,Q3,9.22,51-70
+2024-05-01,South,Sports,Yoga Mat,6,81.2,0.1,438.48,48.66,43.0,4.0,May,Q2,11.1,36-50
+2024-05-14,West,Home & Kitchen,Toaster,19,178.2,0.1,3047.22,304.07,62.0,2.0,May,Q2,9.98,51-70
+2023-03-16,West,Food & Beverages,Snacks,2,9.18,0.1,16.52,3.32,43.0,4.0,March,Q1,20.1,36-50
+2024-03-02,East,Home & Kitchen,Cookware Set,4,145.08,0.15,493.27,83.14,30.0,4.0,March,Q1,16.85,26-35
+2023-02-03,West,Sports,Tennis Racket,14,135.77,0.2,1520.62,483.09,39.0,3.0,February,Q1,31.77,36-50
+2024-04-21,Central,Sports,Dumbbells,15,52.04,0.05,741.57,225.2,52.0,1.0,April,Q2,30.37,51-70
+2024-01-19,North,Food & Beverages,Tea,13,15.23,0.2,158.39,39.66,57.0,4.0,January,Q1,25.04,51-70
+2024-05-03,East,Home & Kitchen,Toaster,3,131.71,0.15,335.86,64.27,40.0,5.0,May,Q2,19.14,36-50
+2024-02-07,North,Clothing,Shoes,3,69.51,0.1,187.68,23.99,49.0,4.0,February,Q1,12.78,36-50
+2023-09-12,North,Food & Beverages,Tea,18,25.48,0.15,389.84,65.64,63.0,3.0,September,Q3,16.84,51-70
+2023-01-07,Central,Sports,Yoga Mat,10,143.51,0.15,1219.83,174.88,41.0,4.0,January,Q1,14.34,36-50
+2023-10-11,East,Clothing,T-Shirt,19,38.92,0.15,628.56,90.7,43.0,4.0,October,Q4,14.43,36-50
+2023-10-26,Central,Home & Kitchen,Vacuum,9,206.55,0.15,1580.11,229.16,23.0,5.0,October,Q4,14.5,18-25
+2023-03-04,Central,Clothing,Dress,4,76.53,0.2,244.9,67.26,38.0,4.0,March,Q1,27.46,36-50
+2023-05-25,Central,Clothing,Dress,3,35.13,0.0,105.39,22.55,46.0,3.0,May,Q2,21.4,36-50
+2024-03-11,West,Food & Beverages,Snacks,9,19.37,0.1,738.06,31.1,24.0,3.0,March,Q1,4.21,18-25
+2024-03-16,East,Clothing,Dress,3,38.55,0.1,104.08,24.05,62.0,3.0,March,Q1,23.11,51-70
+2023-10-03,East,Clothing,T-Shirt,18,53.89,0.05,921.52,140.18,28.0,3.0,October,Q4,15.21,26-35
+2024-01-08,Central,Clothing,Jacket,6,40.83,0.05,232.73,20.82,34.0,2.0,January,Q1,8.95,26-35
+2023-08-17,South,Sports,Dumbbells,2,76.89,0.1,138.4,42.77,38.0,3.0,August,Q3,30.9,36-50
+2024-04-22,South,Food & Beverages,Snacks,10,14.17,0.15,120.44,23.2,65.0,4.0,April,Q2,19.26,51-70
+2023-05-01,North,Food & Beverages,Coffee,15,16.75,0.15,213.56,15.31,37.0,5.0,May,Q2,7.17,36-50
+2024-02-13,Central,Home & Kitchen,Vacuum,6,114.21,0.2,548.21,100.93,42.0,5.0,February,Q1,18.41,36-50
+2024-03-29,North,Clothing,Shoes,8,68.04,0.2,435.46,140.18,34.0,3.0,March,Q1,32.19,26-35
+2023-06-20,Central,Sports,Yoga Mat,10,72.94,0.2,583.52,84.14,30.0,3.0,June,Q2,14.42,26-35
+2023-07-10,North,Food & Beverages,Coffee,5,20.75,0.05,98.56,32.67,23.0,4.0,July,Q3,33.15,18-25
+2024-01-18,North,Food & Beverages,Juice,10,15.83,0.05,150.38,20.7,55.0,4.0,January,Q1,13.77,51-70
+2023-05-26,South,Food & Beverages,Juice,12,26.52,0.05,302.33,59.77,36.0,3.0,May,Q2,19.77,36-50
+2023-08-13,West,Sports,Tennis Racket,2,106.34,0.05,202.05,20.22,46.0,1.0,August,Q3,10.01,36-50
+2024-04-23,East,Home & Kitchen,Cookware Set,2,214.08,0.0,428.16,147.16,44.0,3.0,April,Q2,34.37,36-50
+2023-07-23,North,Food & Beverages,Juice,18,21.64,0.05,370.04,32.15,25.0,4.0,July,Q3,8.69,18-25
+2024-02-14,North,Sports,Tennis Racket,12,105.16,0.15,1072.63,212.66,55.0,3.0,February,Q1,19.83,51-70
+2023-04-04,Central,Clothing,Jacket,16,39.82,0.1,573.41,140.18,43.0,2.0,April,Q2,24.45,36-50
+2024-02-27,East,Food & Beverages,Coffee,16,16.01,0.0,256.16,81.4,60.0,4.0,February,Q1,31.78,51-70
+2023-07-31,South,Clothing,Shoes,3,40.68,0.15,103.73,22.02,29.0,1.0,July,Q3,21.23,26-35
+2023-10-31,Central,Electronics,Smartwatch,6,313.27,0.2,1503.7,420.07,56.0,1.0,October,Q4,27.94,51-70
+2024-02-16,East,Electronics,Tablet,12,311.83,0.15,3180.67,361.94,43.0,4.0,February,Q1,11.38,36-50
+2023-06-05,Central,Clothing,Jeans,10,59.5,0.05,565.25,116.88,43.0,4.0,June,Q2,20.68,36-50
+2024-03-18,West,Clothing,T-Shirt,5,30.79,0.2,123.16,37.87,19.0,3.0,March,Q1,30.75,18-25
+2023-04-15,South,Food & Beverages,Juice,14,23.23,0.1,292.7,80.6,55.0,4.0,April,Q2,27.54,51-70
+2023-01-19,South,Clothing,Shoes,8,71.3,0.05,541.88,72.09,43.0,4.0,January,Q1,13.3,36-50
+2024-03-27,South,Home & Kitchen,Vacuum,1,76.68,0.05,72.85,5.34,48.0,4.0,March,Q1,7.33,36-50
+2024-02-29,East,Electronics,Tablet,13,306.97,0.15,3392.02,243.79,37.0,4.0,February,Q1,7.19,36-50
+2024-02-04,West,Food & Beverages,Snacks,6,19.92,0.2,95.62,9.31,45.0,3.0,February,Q1,9.74,36-50
+2024-02-24,South,Home & Kitchen,Blender,9,166.86,0.1,1351.57,445.38,18.0,4.0,February,Q1,32.95,18-25
+2024-03-03,Central,Clothing,Jeans,10,77.85,0.2,622.8,179.59,59.0,4.0,March,Q1,28.84,51-70
+2023-10-22,South,Sports,Bicycle,1,133.88,0.1,120.49,25.57,52.0,5.0,October,Q4,21.22,51-70
+2023-08-04,South,Clothing,Jeans,4,45.59,0.1,155.01,50.04,57.0,4.0,August,Q3,32.28,51-70
+2023-01-09,East,Home & Kitchen,Air Fryer,2,88.96,0.05,738.06,17.85,55.0,2.0,January,Q1,2.42,51-70
+2023-02-24,North,Sports,Tennis Racket,10,64.69,0.1,582.21,147.38,27.0,2.0,February,Q1,25.31,26-35
+2023-07-16,South,Electronics,Smartwatch,1,806.73,0.15,738.06,203.22,29.0,4.0,July,Q3,27.53,26-35
+2023-10-12,West,Sports,Dumbbells,10,65.47,0.05,621.96,149.42,27.0,3.0,October,Q4,24.02,26-35
+2023-08-28,South,Clothing,T-Shirt,5,42.39,0.15,180.16,62.81,49.0,2.0,August,Q3,34.86,36-50
+2023-05-15,North,Sports,Running Shoes,7,65.9,0.1,415.17,40.0,67.0,1.0,May,Q2,9.63,51-70
+2023-05-30,West,Home & Kitchen,Air Fryer,2,73.87,0.2,738.06,36.56,57.0,5.0,May,Q2,4.95,51-70
+2023-02-27,West,Sports,Running Shoes,14,73.73,0.05,980.61,270.83,44.0,4.0,February,Q1,27.62,36-50
+2024-02-18,East,Clothing,Jacket,5,76.03,0.15,323.13,27.84,47.0,3.0,February,Q1,8.62,36-50
+2023-04-22,East,Food & Beverages,Juice,14,26.43,0.0,370.02,140.18,25.0,3.0,April,Q2,37.88,18-25
+2024-01-20,North,Food & Beverages,Protein Bar,11,22.38,0.0,246.18,140.18,59.0,5.0,January,Q1,56.94,51-70
+2023-07-13,Central,Food & Beverages,Protein Bar,12,19.81,0.05,225.83,19.08,20.0,5.0,July,Q3,8.45,18-25
+2023-11-12,North,Food & Beverages,Juice,6,16.37,0.0,98.22,5.17,45.0,4.0,November,Q4,5.26,36-50
+2023-04-28,Central,Sports,Bicycle,13,113.29,0.15,1251.85,272.04,41.0,4.0,April,Q2,21.73,36-50
+2023-09-26,South,Home & Kitchen,Cookware Set,3,75.51,0.05,215.2,140.18,61.0,4.0,September,Q3,65.14,51-70
+2023-10-21,East,Food & Beverages,Snacks,16,21.51,0.2,275.33,90.52,18.0,5.0,October,Q4,32.88,18-25
+2024-02-01,North,Clothing,T-Shirt,16,46.02,0.1,589.06,176.77,28.0,4.0,February,Q1,30.01,26-35
+2023-06-29,North,Electronics,Smartwatch,7,422.99,0.05,2812.88,234.3,23.0,4.0,June,Q2,8.33,18-25
+2024-04-05,North,Home & Kitchen,Blender,1,187.12,0.15,159.05,140.18,35.0,4.0,April,Q2,88.14,26-35
+2023-02-11,East,Clothing,Shoes,12,83.88,0.15,855.58,225.53,20.0,4.0,February,Q1,26.36,18-25
+2023-03-05,North,Home & Kitchen,Toaster,5,85.19,0.05,404.65,20.9,38.0,4.0,March,Q1,5.16,36-50
+2024-02-26,West,Clothing,Dress,19,59.75,0.15,964.96,222.79,53.0,5.0,February,Q1,23.09,51-70
+2023-12-31,West,Home & Kitchen,Toaster,7,191.36,0.1,1071.62,258.18,37.0,5.0,December,Q4,24.09,36-50
+2023-09-27,South,Sports,Running Shoes,11,136.56,0.1,1427.05,412.95,36.0,5.0,September,Q3,28.94,36-50
+2023-08-22,Central,Food & Beverages,Tea,13,13.38,0.05,165.24,140.18,52.0,5.0,August,Q3,84.83,51-70
+2023-07-14,West,Home & Kitchen,Blender,15,139.31,0.15,1776.2,258.72,43.0,3.0,July,Q3,14.57,36-50
+2024-02-19,South,Sports,Tennis Racket,14,86.1,0.2,964.32,254.76,42.0,5.0,February,Q1,26.42,36-50
+2024-03-14,North,Sports,Yoga Mat,3,94.91,0.1,270.49,91.1,42.0,1.0,March,Q1,33.68,36-50
+2023-02-14,North,Home & Kitchen,Cookware Set,4,207.75,0.1,706.35,181.19,59.0,4.0,February,Q1,25.65,51-70
+2023-10-18,South,Food & Beverages,Coffee,19,16.7,0.2,253.84,63.94,54.0,4.0,October,Q4,25.19,51-70
+2023-08-15,Central,Home & Kitchen,Blender,18,78.59,0.2,1131.7,187.82,43.0,4.0,August,Q3,16.6,36-50
+2024-01-30,Central,Home & Kitchen,Blender,7,94.84,0.05,630.69,57.87,65.0,2.0,January,Q1,9.18,51-70
+2023-03-28,South,Food & Beverages,Coffee,15,15.15,0.2,181.8,24.36,28.0,2.0,March,Q1,13.4,26-35
+2024-01-06,East,Clothing,T-Shirt,15,62.22,0.1,839.97,164.36,57.0,3.0,January,Q1,19.57,51-70
+2023-03-13,North,Home & Kitchen,Air Fryer,12,149.38,0.1,1613.3,282.86,33.0,4.0,March,Q1,17.53,26-35
+2023-09-04,East,Home & Kitchen,Toaster,1,215.55,0.05,204.77,38.45,49.0,4.0,September,Q3,18.78,36-50
+2023-08-31,West,Food & Beverages,Juice,2,12.98,0.05,24.66,3.79,57.0,3.0,August,Q3,15.37,51-70
+2023-12-15,East,Sports,Running Shoes,3,58.07,0.0,174.21,20.52,25.0,3.0,December,Q4,11.78,18-25
+2023-04-26,Central,Home & Kitchen,Toaster,12,142.19,0.2,1365.02,356.41,44.0,4.0,April,Q2,26.11,36-50
+2023-04-23,North,Home & Kitchen,Cookware Set,5,163.22,0.0,816.1,187.3,52.0,3.0,April,Q2,22.95,51-70
+2023-03-22,Central,Food & Beverages,Juice,12,10.49,0.15,107.0,19.3,60.0,4.0,March,Q1,18.04,51-70
+2023-01-04,East,Sports,Yoga Mat,4,113.25,0.2,362.4,51.42,34.0,4.0,January,Q1,14.19,26-35
+2023-11-19,East,Sports,Running Shoes,19,130.73,0.05,2359.68,140.18,56.0,5.0,November,Q4,5.94,51-70
+2023-09-24,East,Home & Kitchen,Toaster,16,182.63,0.15,2483.77,438.66,60.0,4.0,September,Q3,17.66,51-70
+2023-11-14,South,Sports,Tennis Racket,12,94.07,0.0,738.06,78.94,37.0,3.0,November,Q4,10.7,36-50
+2023-01-15,West,Home & Kitchen,Cookware Set,17,89.36,0.15,1291.25,298.46,45.0,5.0,January,Q1,23.11,36-50
+2023-06-18,North,Food & Beverages,Snacks,1,18.75,0.2,15.0,4.36,58.0,4.0,June,Q2,29.07,51-70
+2023-09-25,North,Home & Kitchen,Toaster,10,103.71,0.05,738.06,340.11,43.0,2.0,September,Q3,46.08,36-50
+2023-12-08,East,Food & Beverages,Protein Bar,8,21.54,0.2,738.06,33.14,54.0,4.0,December,Q4,4.49,51-70
+2023-05-05,North,Electronics,Smartwatch,1,457.36,0.05,434.49,145.62,22.0,5.0,May,Q2,33.52,18-25
+2024-04-07,Central,Food & Beverages,Coffee,14,26.01,0.0,364.14,65.29,63.0,3.0,April,Q2,17.93,51-70
+2024-04-16,East,Sports,Yoga Mat,11,63.96,0.0,703.56,126.03,46.0,4.0,April,Q2,17.91,36-50
+2023-03-03,East,Food & Beverages,Juice,1,26.0,0.1,23.4,3.34,50.0,5.0,March,Q1,14.27,36-50
+2023-07-03,West,Clothing,Jacket,9,85.04,0.0,765.36,40.03,61.0,2.0,July,Q3,5.23,51-70
+2024-04-26,East,Sports,Tennis Racket,15,58.23,0.1,738.06,124.64,59.0,3.0,April,Q2,16.89,51-70
+2023-07-04,East,Sports,Bicycle,1,116.73,0.0,116.73,35.15,37.0,4.0,July,Q3,30.11,36-50
+2023-02-19,South,Food & Beverages,Protein Bar,13,21.46,0.0,278.98,47.18,24.0,5.0,February,Q1,16.91,18-25
+2023-12-09,East,Clothing,Shoes,6,66.0,0.15,336.6,45.21,53.0,4.0,December,Q4,13.43,51-70
+2024-02-02,East,Clothing,Dress,2,33.94,0.2,54.3,10.05,45.0,4.0,February,Q1,18.51,36-50
+2023-05-22,North,Home & Kitchen,Blender,9,139.98,0.05,1196.83,110.82,62.0,1.0,May,Q2,9.26,51-70
+2023-12-06,East,Home & Kitchen,Blender,5,215.59,0.2,862.36,262.24,34.0,5.0,December,Q4,30.41,26-35
+2023-01-17,South,Sports,Running Shoes,1,113.59,0.05,107.91,14.73,39.0,4.0,January,Q1,13.65,36-50
+2023-11-11,West,Home & Kitchen,Cookware Set,8,140.55,0.15,955.74,115.86,41.0,5.0,November,Q4,12.12,36-50
+2023-09-13,North,Clothing,Jacket,3,82.29,0.15,209.84,42.68,55.0,5.0,September,Q3,20.34,51-70
+2023-10-24,North,Electronics,Smartwatch,3,695.35,0.1,1877.45,251.17,54.0,3.0,October,Q4,13.38,51-70
+2023-07-26,North,Food & Beverages,Protein Bar,9,16.63,0.15,127.22,32.92,26.0,4.0,July,Q3,25.88,26-35
+2024-04-20,South,Home & Kitchen,Toaster,10,105.36,0.05,1000.92,261.92,34.0,4.0,April,Q2,26.17,26-35
+2023-03-21,East,Home & Kitchen,Blender,6,167.57,0.1,904.88,184.33,28.0,3.0,March,Q1,20.37,26-35
+2024-05-02,South,Food & Beverages,Tea,11,13.49,0.2,118.71,27.91,18.0,4.0,May,Q2,23.51,18-25
+2023-08-27,East,Sports,Tennis Racket,14,127.7,0.2,1430.24,140.18,63.0,3.0,August,Q3,9.8,51-70
+2023-11-10,North,Clothing,Shoes,15,81.72,0.2,980.64,330.0,32.0,3.0,November,Q4,33.65,26-35
+2023-05-11,South,Home & Kitchen,Toaster,1,208.58,0.1,187.72,140.18,49.0,4.0,May,Q2,74.68,36-50
+2023-08-06,North,Clothing,T-Shirt,7,42.79,0.2,239.62,71.54,43.0,2.0,August,Q3,29.86,36-50
+2023-10-05,North,Sports,Running Shoes,8,64.93,0.15,441.52,96.22,27.0,5.0,October,Q4,21.79,26-35
+2023-12-07,West,Electronics,Headphones,4,405.92,0.1,1380.13,437.54,28.0,3.0,December,Q4,31.7,26-35
+2023-10-30,Central,Sports,Yoga Mat,3,141.01,0.0,423.03,94.41,24.0,5.0,October,Q4,22.32,18-25
+2023-05-12,South,Electronics,Smartwatch,8,400.22,0.1,2881.58,464.95,29.0,5.0,May,Q2,16.14,26-35
+2023-03-12,North,Clothing,Shoes,15,61.54,0.1,830.79,266.57,28.0,4.0,March,Q1,32.09,26-35
+2023-11-25,North,Clothing,Jeans,6,67.96,0.0,407.76,127.68,49.0,5.0,November,Q4,31.31,36-50
+2024-03-01,Central,Home & Kitchen,Vacuum,3,197.55,0.15,503.75,119.83,34.0,4.0,March,Q1,23.79,26-35
+2023-06-03,West,Sports,Running Shoes,15,94.13,0.05,1341.35,258.79,41.0,5.0,June,Q2,19.29,36-50
+2023-01-08,North,Home & Kitchen,Toaster,4,77.68,0.2,248.58,49.23,39.0,4.0,January,Q1,19.8,36-50
+2023-05-16,East,Home & Kitchen,Vacuum,6,152.59,0.2,732.43,140.18,24.0,4.0,May,Q2,19.14,18-25
+2024-03-23,East,Clothing,Jacket,18,80.33,0.15,1229.05,113.33,48.0,4.0,March,Q1,9.22,36-50
+2023-03-06,West,Clothing,Jacket,11,71.13,0.15,665.07,222.34,38.0,2.0,March,Q1,33.43,36-50
+2023-05-17,North,Clothing,T-Shirt,18,58.89,0.05,1007.02,155.73,43.0,3.0,May,Q2,15.46,36-50
+2023-07-25,North,Food & Beverages,Juice,13,11.54,0.0,150.02,8.07,29.0,4.0,July,Q3,5.38,26-35
+2023-04-05,North,Home & Kitchen,Blender,13,188.14,0.1,2201.24,303.87,36.0,4.0,April,Q2,13.8,36-50
+2024-05-11,North,Home & Kitchen,Toaster,13,211.55,0.15,2337.63,355.74,37.0,4.0,May,Q2,15.22,36-50
+2023-01-18,North,Sports,Tennis Racket,14,89.74,0.15,1067.91,364.65,28.0,4.0,January,Q1,34.15,26-35
+2023-05-10,Central,Home & Kitchen,Blender,18,101.54,0.2,1462.18,435.43,47.0,3.0,May,Q2,29.78,36-50
+2024-02-08,North,Home & Kitchen,Blender,8,155.96,0.0,1247.68,140.18,43.0,3.0,February,Q1,11.24,36-50
+2023-11-06,East,Sports,Yoga Mat,8,140.45,0.1,1067.42,307.7,30.0,5.0,November,Q4,28.83,26-35
+2024-05-09,Central,Home & Kitchen,Vacuum,7,190.92,0.15,1135.97,193.72,48.0,3.0,May,Q2,17.05,36-50
+2023-03-20,East,Sports,Dumbbells,18,95.89,0.15,1467.12,230.84,40.0,4.0,March,Q1,15.73,36-50
+2023-03-02,North,Clothing,Jeans,19,65.78,0.05,1187.33,151.13,55.0,5.0,March,Q1,12.73,51-70
+2023-05-06,Central,Electronics,Headphones,7,830.27,0.05,738.06,394.85,67.0,5.0,May,Q2,53.5,51-70
+2023-12-20,South,Clothing,Jeans,4,61.06,0.0,244.24,55.14,43.0,4.0,December,Q4,22.58,36-50
+2024-04-04,East,Food & Beverages,Protein Bar,6,23.94,0.1,129.28,29.07,66.0,4.0,April,Q2,22.49,51-70
+2023-05-20,South,Clothing,Jacket,12,56.75,0.2,544.8,166.81,30.0,3.0,May,Q2,30.62,26-35
+2023-06-17,South,Food & Beverages,Coffee,17,11.51,0.0,738.06,27.39,28.0,5.0,June,Q2,3.71,26-35
+2023-02-22,North,Clothing,Dress,10,72.5,0.1,738.06,88.59,27.0,3.0,February,Q1,12.0,26-35
+2023-08-11,South,Sports,Tennis Racket,12,83.84,0.2,804.86,118.74,32.0,3.0,August,Q3,14.75,26-35
+2023-10-25,Central,Home & Kitchen,Toaster,2,182.94,0.15,311.0,34.25,49.0,5.0,October,Q4,11.01,36-50
+2024-02-05,West,Home & Kitchen,Blender,16,165.84,0.1,2520.77,140.18,39.0,4.0,February,Q1,5.56,36-50
+2023-03-11,Central,Sports,Tennis Racket,9,131.8,0.2,948.96,210.3,27.0,2.0,March,Q1,22.16,26-35
+2024-05-10,Central,Clothing,Jeans,4,69.31,0.1,249.52,46.8,27.0,4.0,May,Q2,18.76,26-35
+2023-01-24,North,Home & Kitchen,Air Fryer,16,169.99,0.1,2447.86,136.43,48.0,3.0,January,Q1,5.57,36-50
+2024-03-19,South,Sports,Bicycle,15,50.16,0.0,752.4,40.42,33.0,4.0,March,Q1,5.37,26-35
+2024-03-25,North,Sports,Yoga Mat,12,91.28,0.15,931.06,299.66,43.0,4.0,March,Q1,32.18,36-50
+2024-01-07,North,Home & Kitchen,Toaster,7,95.15,0.0,666.05,147.07,51.0,5.0,January,Q1,22.08,51-70
+2023-10-10,North,Clothing,Dress,15,82.65,0.0,1239.75,204.88,40.0,5.0,October,Q4,16.53,36-50
+2023-11-18,East,Clothing,Shoes,1,63.98,0.15,54.38,14.18,40.0,4.0,November,Q4,26.08,36-50
+2023-11-17,Central,Clothing,T-Shirt,18,63.05,0.15,964.66,140.18,56.0,2.0,November,Q4,14.53,51-70
+2023-12-13,South,Home & Kitchen,Vacuum,18,82.96,0.1,1343.95,454.71,21.0,3.0,December,Q4,33.83,18-25
+2023-03-31,East,Clothing,Jeans,15,53.06,0.2,636.72,84.44,59.0,2.0,March,Q1,13.26,51-70
+2023-08-24,East,Food & Beverages,Coffee,8,20.18,0.0,738.06,44.97,29.0,3.0,August,Q3,6.09,26-35
+2023-08-23,Central,Clothing,Jacket,16,39.06,0.1,624.96,161.09,42.0,4.0,August,Q3,25.78,36-50
+2023-10-23,South,Home & Kitchen,Air Fryer,5,111.46,0.1,501.57,61.12,43.0,4.0,October,Q4,12.19,36-50
+2023-03-17,North,Food & Beverages,Tea,19,21.5,0.1,367.65,85.75,44.0,3.0,March,Q1,23.32,36-50
+2023-04-11,Central,Clothing,Shoes,8,46.4,0.1,296.96,76.12,56.0,4.0,April,Q2,25.63,51-70
+2023-01-28,Central,Home & Kitchen,Cookware Set,12,181.19,0.1,1956.85,337.12,35.0,4.0,January,Q1,17.23,26-35
+2023-11-01,West,Home & Kitchen,Blender,9,98.66,0.2,710.35,107.73,42.0,5.0,November,Q4,15.17,36-50
+2023-09-03,South,Food & Beverages,Snacks,1,12.27,0.0,12.27,1.02,30.0,3.0,September,Q3,8.31,26-35
+2023-07-01,South,Electronics,Smartphone,4,348.63,0.2,1115.62,332.47,54.0,4.0,July,Q3,29.8,51-70
+2023-10-27,South,Clothing,Dress,19,67.94,0.0,1290.86,137.12,43.0,5.0,October,Q4,10.62,36-50
+2023-06-12,North,Home & Kitchen,Air Fryer,15,143.3,0.1,1934.55,320.47,35.0,4.0,June,Q2,16.57,26-35
+2023-07-20,North,Sports,Tennis Racket,15,91.33,0.2,1095.96,75.33,54.0,5.0,July,Q3,6.87,51-70
+2023-08-01,East,Sports,Bicycle,19,138.59,0.0,2633.21,368.17,49.0,4.0,August,Q3,13.98,36-50
+2023-10-29,Central,Sports,Yoga Mat,8,50.6,0.0,404.8,140.18,37.0,5.0,October,Q4,34.63,36-50
+2024-01-02,East,Home & Kitchen,Air Fryer,13,107.33,0.0,1395.29,321.72,27.0,4.0,January,Q1,23.06,26-35
+2024-01-27,West,Home & Kitchen,Vacuum,9,149.94,0.15,1147.04,100.3,56.0,2.0,January,Q1,8.74,51-70
+2024-01-21,East,Clothing,Dress,4,86.23,0.0,344.92,65.12,37.0,4.0,January,Q1,18.88,36-50
+2023-12-10,North,Clothing,T-Shirt,19,32.19,0.1,738.06,59.67,47.0,5.0,December,Q4,8.08,36-50
+2023-04-01,South,Electronics,Smartphone,1,382.13,0.1,343.92,71.0,43.0,4.0,April,Q2,20.64,36-50
+2023-11-04,South,Food & Beverages,Protein Bar,11,15.0,0.0,165.0,33.26,30.0,4.0,November,Q4,20.16,26-35
+2024-04-29,Central,Electronics,Laptop,2,671.17,0.0,738.06,206.97,52.0,4.0,April,Q2,28.04,51-70
+2024-01-13,North,Clothing,Jeans,16,51.04,0.05,775.81,207.29,43.0,4.0,January,Q1,26.72,36-50
+2023-01-20,West,Sports,Tennis Racket,11,72.9,0.0,801.9,246.59,50.0,4.0,January,Q1,30.75,36-50
+2023-04-02,West,Electronics,Headphones,10,377.71,0.2,3021.68,179.15,43.0,3.0,April,Q2,5.93,36-50
+2023-02-02,South,Electronics,Tablet,4,537.75,0.2,1720.8,398.77,49.0,1.0,February,Q1,23.17,36-50
+2024-01-15,South,Sports,Tennis Racket,8,103.89,0.05,789.56,107.17,33.0,4.0,January,Q1,13.57,26-35
+2023-05-23,East,Food & Beverages,Coffee,15,13.2,0.15,168.3,140.18,26.0,5.0,May,Q2,83.29,26-35
+2023-06-22,West,Clothing,Dress,1,76.79,0.05,72.95,22.69,59.0,4.0,June,Q2,31.1,51-70
+2023-01-12,Central,Food & Beverages,Coffee,3,19.22,0.1,51.89,15.11,19.0,4.0,January,Q1,29.12,18-25
+2023-06-26,South,Sports,Running Shoes,1,131.39,0.0,131.39,36.88,31.0,5.0,June,Q2,28.07,26-35
+2023-02-10,North,Sports,Bicycle,2,60.49,0.05,114.93,39.56,65.0,5.0,February,Q1,34.42,51-70
+2023-12-14,West,Home & Kitchen,Vacuum,4,102.23,0.1,368.03,37.59,55.0,5.0,December,Q4,10.21,51-70
+2023-09-14,South,Electronics,Laptop,14,362.47,0.2,738.06,243.4,18.0,4.0,September,Q3,32.98,18-25
+2023-03-10,West,Clothing,Shoes,7,53.83,0.15,320.29,80.46,67.0,4.0,March,Q1,25.12,51-70
+2023-01-01,East,Clothing,Dress,16,67.45,0.15,917.32,267.37,37.0,3.0,January,Q1,29.15,36-50
+2023-02-17,East,Food & Beverages,Juice,2,11.46,0.1,19.48,2.25,22.0,4.0,February,Q1,11.55,18-25
+2023-12-30,East,Clothing,Jacket,17,34.94,0.1,534.58,140.18,31.0,5.0,December,Q4,26.22,26-35
+2024-01-29,North,Clothing,Jeans,8,53.86,0.2,344.7,46.06,45.0,3.0,January,Q1,13.36,36-50
+2024-04-18,East,Clothing,Jacket,4,59.37,0.2,189.98,140.18,32.0,4.0,April,Q2,73.79,26-35
+2024-01-01,Central,Food & Beverages,Coffee,17,17.65,0.0,300.05,45.64,55.0,3.0,January,Q1,15.21,51-70
+2023-07-27,South,Sports,Tennis Racket,10,81.61,0.1,734.49,179.03,61.0,5.0,July,Q3,24.37,51-70
+2023-09-15,North,Clothing,Shoes,12,79.48,0.0,953.76,91.79,40.0,2.0,September,Q3,9.62,36-50
+2023-03-01,West,Food & Beverages,Coffee,2,12.21,0.15,20.76,5.11,43.0,4.0,March,Q1,24.61,36-50
+2024-02-17,North,Home & Kitchen,Blender,8,105.11,0.0,840.88,212.78,62.0,3.0,February,Q1,25.3,51-70
+2023-04-12,Central,Food & Beverages,Snacks,1,21.2,0.2,16.96,3.6,19.0,4.0,April,Q2,21.23,18-25
+2023-04-24,East,Food & Beverages,Juice,14,20.09,0.1,253.13,84.17,28.0,4.0,April,Q2,33.25,26-35
+2024-04-13,Central,Sports,Yoga Mat,12,54.47,0.05,620.96,100.97,30.0,4.0,April,Q2,16.26,26-35
+2023-05-28,North,Home & Kitchen,Cookware Set,8,213.82,0.2,1368.45,472.19,40.0,1.0,May,Q2,34.51,36-50
+2023-08-12,Central,Clothing,T-Shirt,7,71.76,0.0,502.32,57.95,32.0,4.0,August,Q3,11.54,26-35
+2023-03-23,South,Clothing,Shoes,9,47.67,0.05,407.58,57.64,44.0,2.0,March,Q1,14.14,36-50
+2023-07-24,South,Sports,Yoga Mat,14,56.58,0.0,738.06,235.04,32.0,3.0,July,Q3,31.85,26-35
+2023-12-28,Central,Food & Beverages,Snacks,16,13.9,0.1,222.4,29.85,35.0,4.0,December,Q4,13.42,26-35
+2024-01-12,Central,Clothing,Jacket,17,46.14,0.1,784.38,157.02,62.0,2.0,January,Q1,20.02,51-70
+2023-11-29,West,Sports,Running Shoes,11,69.17,0.15,646.74,99.44,51.0,3.0,November,Q4,15.38,51-70
+2023-06-24,West,Home & Kitchen,Air Fryer,5,163.95,0.05,778.76,226.88,55.0,5.0,June,Q2,29.13,51-70
+2024-03-13,West,Clothing,Jeans,10,45.94,0.15,390.49,24.09,57.0,4.0,March,Q1,6.17,51-70
+2023-09-01,Central,Home & Kitchen,Vacuum,17,205.6,0.2,2796.16,483.42,55.0,5.0,September,Q3,17.29,51-70
+2024-04-11,South,Food & Beverages,Juice,3,20.04,0.2,48.1,10.81,56.0,4.0,April,Q2,22.47,51-70
+2023-01-30,West,Home & Kitchen,Toaster,15,89.95,0.2,1079.4,119.39,20.0,4.0,January,Q1,11.06,18-25
+2024-05-04,West,Electronics,Laptop,2,551.26,0.0,1102.52,329.42,27.0,3.0,May,Q2,29.88,26-35
+2023-12-23,East,Food & Beverages,Protein Bar,3,14.68,0.05,41.84,3.61,54.0,4.0,December,Q4,8.63,51-70
+2023-01-27,Central,Clothing,Jacket,15,61.46,0.05,875.8,206.93,30.0,3.0,January,Q1,23.63,26-35
+2023-06-11,South,Sports,Tennis Racket,3,107.2,0.05,305.52,52.59,22.0,4.0,June,Q2,17.21,18-25
+2023-07-28,East,Sports,Tennis Racket,3,76.0,0.1,205.2,140.18,50.0,4.0,July,Q3,68.31,36-50
+2023-03-26,North,Home & Kitchen,Cookware Set,2,137.27,0.05,260.81,63.99,63.0,5.0,March,Q1,24.54,51-70
+2023-04-20,East,Sports,Yoga Mat,7,118.7,0.15,706.26,203.39,45.0,4.0,April,Q2,28.8,36-50
+2023-06-19,West,Food & Beverages,Snacks,9,19.44,0.1,157.46,31.75,57.0,4.0,June,Q2,20.16,51-70
+2023-07-30,North,Sports,Running Shoes,4,74.27,0.05,282.23,51.29,62.0,3.0,July,Q3,18.17,51-70
+2023-10-01,West,Electronics,Smartphone,9,323.77,0.15,2476.84,362.73,34.0,4.0,October,Q4,14.64,26-35
+2024-01-24,North,Food & Beverages,Tea,7,10.04,0.2,56.22,13.55,51.0,2.0,January,Q1,24.1,51-70
+2023-09-02,Central,Sports,Running Shoes,17,72.76,0.1,1113.23,154.93,69.0,1.0,September,Q3,13.92,51-70
+2023-06-23,East,Food & Beverages,Juice,16,9.38,0.2,120.06,27.39,60.0,5.0,June,Q2,22.81,51-70
+2024-02-22,West,Food & Beverages,Protein Bar,12,13.3,0.2,127.68,8.06,64.0,5.0,February,Q1,6.31,51-70
+2023-08-14,West,Home & Kitchen,Toaster,4,132.13,0.2,422.82,129.92,48.0,4.0,August,Q3,30.73,36-50
+2024-02-15,West,Home & Kitchen,Blender,4,186.7,0.05,709.46,49.52,69.0,3.0,February,Q1,6.98,51-70
+2023-11-09,West,Sports,Running Shoes,3,120.26,0.2,288.62,64.69,61.0,4.0,November,Q4,22.41,51-70
+2023-11-21,West,Clothing,T-Shirt,6,48.62,0.15,247.96,65.0,67.0,3.0,November,Q4,26.21,51-70
+2023-04-07,North,Sports,Yoga Mat,17,102.25,0.05,1651.34,140.18,52.0,5.0,April,Q2,8.49,51-70
+2023-11-24,South,Food & Beverages,Juice,16,22.18,0.15,301.65,61.48,39.0,4.0,November,Q4,20.38,36-50
+2023-09-07,Central,Food & Beverages,Tea,10,16.37,0.2,130.96,7.26,29.0,4.0,September,Q3,5.54,26-35
+2023-05-27,West,Sports,Tennis Racket,6,59.26,0.1,320.0,26.66,58.0,4.0,May,Q2,8.33,51-70
+2023-08-25,South,Sports,Running Shoes,5,99.84,0.15,424.32,89.11,32.0,4.0,August,Q3,21.0,26-35
+2023-01-16,North,Electronics,Smartphone,7,361.51,0.15,2150.98,203.57,57.0,5.0,January,Q1,9.46,51-70
+2023-03-09,North,Home & Kitchen,Toaster,15,197.81,0.2,2373.72,219.9,43.0,5.0,March,Q1,9.26,36-50
+2023-09-10,South,Sports,Bicycle,5,88.82,0.15,377.48,46.27,32.0,4.0,September,Q3,12.26,26-35
+2023-09-20,East,Food & Beverages,Snacks,13,26.66,0.1,294.59,34.86,68.0,4.0,September,Q3,11.83,51-70
+2024-03-07,North,Clothing,Shoes,2,70.09,0.2,112.14,140.18,65.0,4.0,March,Q1,125.0,51-70
+2023-10-13,North,Sports,Yoga Mat,6,86.3,0.1,466.02,84.86,54.0,3.0,October,Q4,18.21,51-70
+2024-02-12,West,Clothing,T-Shirt,1,79.15,0.2,63.32,12.32,28.0,4.0,February,Q1,19.46,26-35
+2023-01-02,North,Clothing,T-Shirt,6,39.15,0.0,234.9,76.23,46.0,1.0,January,Q1,32.45,36-50
+2023-02-25,Central,Sports,Tennis Racket,2,93.43,0.1,168.17,140.18,25.0,4.0,February,Q1,83.36,18-25
+2023-05-14,South,Electronics,Laptop,1,392.34,0.0,392.34,135.91,43.0,1.0,May,Q2,34.64,36-50
+2023-04-27,South,Food & Beverages,Coffee,12,24.03,0.2,230.69,62.97,38.0,4.0,April,Q2,27.3,36-50
+2023-10-07,East,Clothing,Shoes,2,50.87,0.1,91.57,140.18,39.0,4.0,October,Q4,153.09,36-50
+2023-03-29,East,Sports,Tennis Racket,14,94.07,0.15,1119.43,134.01,34.0,4.0,March,Q1,11.97,26-35
+2023-12-25,Central,Sports,Dumbbells,2,50.36,0.15,85.61,25.53,33.0,5.0,December,Q4,29.82,26-35
+2024-05-08,North,Sports,Bicycle,5,125.71,0.15,534.27,147.92,47.0,4.0,May,Q2,27.69,36-50
+2023-11-15,North,Sports,Dumbbells,16,82.65,0.1,1190.16,243.95,28.0,4.0,November,Q4,20.5,26-35
+2023-05-21,Central,Food & Beverages,Tea,13,22.88,0.05,282.57,79.07,52.0,4.0,May,Q2,27.98,51-70
+2023-09-22,South,Electronics,Tablet,6,567.6,0.1,3235.32,266.62,58.0,4.0,September,Q3,8.24,51-70
+2023-12-02,East,Clothing,Shoes,2,56.45,0.2,738.06,14.06,44.0,3.0,December,Q4,1.9,36-50
+2023-07-21,East,Home & Kitchen,Cookware Set,13,76.89,0.2,738.06,141.18,31.0,3.0,July,Q3,19.13,26-35
+2023-07-11,North,Home & Kitchen,Toaster,11,187.18,0.2,1647.18,140.18,48.0,5.0,July,Q3,8.51,36-50
+2023-01-10,East,Home & Kitchen,Vacuum,9,155.02,0.15,1185.9,140.18,43.0,4.0,January,Q1,11.82,36-50
+2023-09-29,South,Food & Beverages,Tea,17,24.52,0.15,354.31,20.2,46.0,5.0,September,Q3,5.7,36-50
+2023-08-05,North,Home & Kitchen,Toaster,1,213.69,0.05,203.01,68.46,20.0,3.0,August,Q3,33.72,18-25
+2023-07-12,East,Sports,Tennis Racket,12,74.14,0.2,711.74,178.18,65.0,2.0,July,Q3,25.03,51-70
+2024-02-28,South,Home & Kitchen,Vacuum,17,118.6,0.05,1915.39,425.33,21.0,5.0,February,Q1,22.21,18-25
+2023-08-18,South,Food & Beverages,Snacks,19,10.57,0.1,180.75,140.18,45.0,4.0,August,Q3,77.55,36-50
+2024-01-23,North,Sports,Dumbbells,11,135.78,0.0,1493.58,140.18,38.0,4.0,January,Q1,9.39,36-50
+2023-06-08,East,Food & Beverages,Juice,6,18.52,0.1,94.45,22.75,37.0,5.0,June,Q2,24.09,36-50
+2024-03-22,East,Electronics,Headphones,2,640.77,0.1,1153.39,152.73,46.0,4.0,March,Q1,13.24,36-50
+2023-04-13,West,Sports,Yoga Mat,12,100.0,0.2,960.0,140.18,66.0,4.0,April,Q2,14.6,51-70
+2023-07-09,West,Clothing,Dress,13,85.46,0.1,888.78,234.82,67.0,4.0,July,Q3,26.42,51-70
+2023-11-27,Central,Clothing,Dress,12,55.14,0.15,562.43,149.5,28.0,2.0,November,Q4,26.58,26-35
+2023-05-31,Central,Food & Beverages,Protein Bar,5,13.84,0.2,55.36,10.55,30.0,5.0,May,Q2,19.06,26-35
+2024-01-03,West,Food & Beverages,Juice,12,17.92,0.0,215.04,140.18,42.0,5.0,January,Q1,65.19,36-50
+2023-08-29,South,Electronics,Headphones,2,445.23,0.05,845.94,204.84,67.0,1.0,August,Q3,24.21,51-70
+2024-01-25,Central,Food & Beverages,Protein Bar,18,17.19,0.05,293.95,19.13,66.0,5.0,January,Q1,6.51,51-70
+2023-01-05,North,Home & Kitchen,Blender,2,199.58,0.2,738.06,49.95,43.0,5.0,January,Q1,6.77,36-50
+2023-06-10,South,Electronics,Smartphone,11,339.21,0.1,3358.18,140.18,19.0,4.0,June,Q2,4.17,18-25
+2023-01-03,South,Clothing,T-Shirt,6,30.38,0.15,154.94,9.58,42.0,3.0,January,Q1,6.18,36-50
+2023-02-13,East,Home & Kitchen,Toaster,11,196.89,0.1,1949.21,131.17,55.0,5.0,February,Q1,6.73,51-70
+2024-04-01,North,Clothing,Dress,6,40.3,0.0,241.8,73.91,43.0,4.0,April,Q2,30.57,36-50
+2023-07-08,South,Home & Kitchen,Cookware Set,3,79.89,0.2,191.74,44.98,39.0,1.0,July,Q3,23.46,36-50
+2023-09-11,West,Food & Beverages,Juice,18,15.9,0.05,271.89,85.29,36.0,2.0,September,Q3,31.37,36-50
+2023-11-22,South,Clothing,Jacket,19,79.93,0.0,738.06,167.65,39.0,3.0,November,Q4,22.71,36-50
+2024-04-24,North,Food & Beverages,Snacks,14,9.08,0.05,120.76,35.15,59.0,4.0,April,Q2,29.11,51-70
+2023-09-17,South,Clothing,Jeans,18,65.81,0.05,1125.35,270.34,67.0,5.0,September,Q3,24.02,51-70
+2024-04-12,Central,Food & Beverages,Tea,12,15.12,0.0,738.06,29.97,30.0,4.0,April,Q2,4.06,26-35
+2023-02-01,North,Clothing,Dress,8,36.79,0.05,279.6,37.21,33.0,2.0,February,Q1,13.31,26-35
+2024-02-20,South,Home & Kitchen,Toaster,1,151.8,0.15,129.03,37.21,41.0,1.0,February,Q1,28.84,36-50
+2023-05-07,West,Home & Kitchen,Vacuum,1,119.01,0.15,101.16,140.18,64.0,3.0,May,Q2,138.57,51-70
+2024-01-14,East,Clothing,Jeans,12,78.95,0.05,900.03,167.59,37.0,4.0,January,Q1,18.62,36-50
+2023-06-30,Central,Clothing,T-Shirt,9,35.49,0.1,287.47,97.51,61.0,4.0,June,Q2,33.92,51-70
+2023-11-03,East,Electronics,Tablet,2,806.87,0.0,1613.74,490.22,27.0,4.0,November,Q4,30.38,26-35
+2023-12-16,South,Home & Kitchen,Cookware Set,12,117.95,0.0,738.06,71.43,57.0,4.0,December,Q4,9.68,51-70
+2023-09-30,North,Sports,Tennis Racket,16,114.59,0.2,1466.75,297.94,30.0,5.0,September,Q3,20.31,26-35
+2024-01-11,South,Home & Kitchen,Toaster,7,144.32,0.2,808.19,140.18,66.0,4.0,January,Q1,17.34,51-70
+2023-12-04,North,Sports,Running Shoes,1,81.66,0.05,77.58,5.55,54.0,3.0,December,Q4,7.15,51-70
+2023-12-11,Central,Food & Beverages,Juice,14,13.04,0.1,164.3,29.29,47.0,3.0,December,Q4,17.83,36-50
+2023-10-09,Central,Clothing,Jacket,17,50.05,0.0,850.85,60.65,21.0,4.0,October,Q4,7.13,18-25
+2023-06-02,West,Food & Beverages,Tea,4,22.65,0.15,77.01,12.27,69.0,4.0,June,Q2,15.93,51-70
+2023-12-24,Central,Electronics,Laptop,8,345.08,0.15,2346.54,449.94,37.0,5.0,December,Q4,19.17,36-50
+2024-04-28,West,Electronics,Smartwatch,2,771.81,0.15,1312.08,379.87,43.0,3.0,April,Q2,28.95,36-50
+2024-03-26,South,Sports,Tennis Racket,17,54.51,0.15,787.67,153.61,44.0,5.0,March,Q1,19.5,36-50
+2024-03-31,North,Clothing,Shoes,9,85.92,0.2,618.62,206.13,26.0,5.0,March,Q1,33.32,26-35
+2023-04-29,South,Electronics,Smartphone,3,379.63,0.1,1025.0,304.18,33.0,5.0,April,Q2,29.68,26-35
+2023-02-08,South,Clothing,T-Shirt,6,66.19,0.0,397.14,112.06,19.0,4.0,February,Q1,28.22,18-25
+2023-06-09,East,Home & Kitchen,Vacuum,13,105.22,0.1,1231.07,114.22,63.0,4.0,June,Q2,9.28,51-70
+2024-05-12,East,Sports,Bicycle,11,136.4,0.0,1500.4,258.46,46.0,4.0,May,Q2,17.23,36-50
+2023-12-03,Central,Home & Kitchen,Blender,3,157.31,0.2,377.54,80.2,41.0,5.0,December,Q4,21.24,36-50
+2023-11-05,North,Electronics,Smartphone,6,517.44,0.15,2638.94,194.81,33.0,5.0,November,Q4,7.38,26-35
+2023-12-26,Central,Electronics,Laptop,1,438.01,0.0,438.01,29.72,20.0,5.0,December,Q4,6.79,18-25
+2023-06-06,South,Sports,Dumbbells,12,54.16,0.1,738.06,81.81,21.0,4.0,June,Q2,11.08,18-25
+2023-03-15,South,Clothing,Jacket,15,77.85,0.05,1109.36,156.09,63.0,3.0,March,Q1,14.07,51-70
+2023-12-29,North,Clothing,Shoes,3,46.24,0.2,110.98,28.4,21.0,4.0,December,Q4,25.59,18-25
+2023-09-16,Central,Home & Kitchen,Toaster,13,121.96,0.0,1585.48,381.15,57.0,5.0,September,Q3,24.04,51-70
+2023-02-15,Central,Sports,Running Shoes,5,132.35,0.1,595.58,108.47,45.0,4.0,February,Q1,18.21,36-50
+2024-05-13,South,Home & Kitchen,Air Fryer,3,82.43,0.15,210.2,35.92,69.0,2.0,May,Q2,17.09,51-70
+2024-03-28,East,Food & Beverages,Tea,12,16.59,0.0,199.08,12.46,35.0,3.0,March,Q1,6.26,26-35
+2023-09-06,North,Sports,Running Shoes,5,50.55,0.0,252.75,86.7,57.0,3.0,September,Q3,34.3,51-70
+2023-01-22,West,Home & Kitchen,Toaster,5,73.58,0.1,331.11,101.55,53.0,3.0,January,Q1,30.67,51-70
+2023-12-01,South,Food & Beverages,Protein Bar,10,9.93,0.1,94.34,25.76,38.0,4.0,December,Q4,27.31,36-50
+2023-09-23,Central,Food & Beverages,Coffee,4,25.07,0.05,95.27,25.91,19.0,4.0,September,Q3,27.2,18-25
+2023-01-11,North,Home & Kitchen,Cookware Set,12,103.79,0.0,1245.48,296.4,43.0,4.0,January,Q1,23.8,36-50
+2023-12-18,North,Sports,Bicycle,5,121.31,0.0,606.55,81.55,27.0,5.0,December,Q4,13.44,26-35
+2023-10-06,East,Electronics,Headphones,5,424.73,0.1,2123.65,348.53,24.0,4.0,October,Q4,16.41,18-25
+2023-08-03,North,Home & Kitchen,Vacuum,3,165.8,0.1,447.66,27.04,67.0,4.0,August,Q3,6.04,51-70
+2023-11-30,East,Sports,Yoga Mat,4,69.31,0.15,235.65,60.86,29.0,4.0,November,Q4,25.83,26-35
+2023-08-21,Central,Clothing,Dress,13,43.47,0.15,480.34,123.2,20.0,1.0,August,Q3,25.65,18-25
+2023-04-10,North,Food & Beverages,Snacks,9,11.36,0.2,81.79,140.18,66.0,1.0,April,Q2,171.39,51-70
+2024-04-17,East,Sports,Tennis Racket,4,58.27,0.15,198.12,17.67,32.0,4.0,April,Q2,8.92,26-35
+2024-03-10,East,Clothing,Shoes,12,69.27,0.1,831.24,160.47,43.0,4.0,March,Q1,19.3,36-50
+2023-11-16,South,Clothing,Shoes,15,64.92,0.1,876.42,64.03,30.0,2.0,November,Q4,7.31,26-35
+2023-03-27,North,Clothing,Jeans,11,88.26,0.0,970.86,225.6,65.0,3.0,March,Q1,23.24,51-70
+2023-08-02,West,Sports,Bicycle,7,130.57,0.0,913.99,156.78,43.0,5.0,August,Q3,17.15,36-50
+2023-03-24,North,Home & Kitchen,Vacuum,18,183.83,0.05,3143.49,140.18,49.0,3.0,March,Q1,4.46,36-50
+2023-01-25,North,Electronics,Smartwatch,6,550.66,0.1,2973.56,411.87,24.0,4.0,January,Q1,13.85,18-25
+2023-04-17,West,Food & Beverages,Protein Bar,3,11.25,0.2,27.0,7.9,48.0,5.0,April,Q2,29.26,36-50
+2024-01-17,West,Home & Kitchen,Cookware Set,14,187.19,0.05,2489.63,351.5,54.0,5.0,January,Q1,14.12,51-70
+2024-04-08,West,Home & Kitchen,Cookware Set,18,130.86,0.2,1884.38,193.08,40.0,2.0,April,Q2,10.25,36-50
+2023-01-26,North,Sports,Tennis Racket,14,88.45,0.1,738.06,218.21,33.0,3.0,January,Q1,29.57,26-35
+2023-10-08,North,Clothing,T-Shirt,10,77.69,0.05,738.06,136.17,36.0,2.0,October,Q4,18.45,36-50
+2023-06-13,North,Food & Beverages,Snacks,8,11.52,0.1,92.16,28.74,20.0,3.0,June,Q2,31.18,18-25
+2024-04-09,Central,Food & Beverages,Tea,17,18.23,0.05,294.41,52.75,36.0,4.0,April,Q2,17.92,36-50
+2023-05-29,East,Sports,Bicycle,14,126.52,0.15,1505.59,355.62,26.0,3.0,May,Q2,23.62,26-35
+2024-03-17,Central,Food & Beverages,Protein Bar,15,24.4,0.0,366.0,46.88,22.0,1.0,March,Q1,12.81,18-25
+2023-06-25,Central,Food & Beverages,Snacks,18,25.66,0.2,369.5,113.49,46.0,4.0,June,Q2,30.71,36-50
+2023-07-07,West,Clothing,Jacket,4,54.51,0.0,218.04,18.5,66.0,5.0,July,Q3,8.48,51-70
+2023-01-23,South,Sports,Yoga Mat,8,88.29,0.0,706.32,111.33,55.0,3.0,January,Q1,15.76,51-70
+2023-02-26,East,Sports,Dumbbells,5,124.68,0.05,592.23,138.45,46.0,4.0,February,Q1,23.38,36-50
+2023-07-05,East,Food & Beverages,Coffee,1,9.56,0.2,7.65,1.06,33.0,2.0,July,Q3,13.86,26-35
+2023-08-30,South,Home & Kitchen,Blender,8,197.29,0.0,1578.32,250.28,57.0,4.0,August,Q3,15.86,51-70
+2023-02-21,East,Food & Beverages,Juice,15,16.23,0.1,738.06,78.08,34.0,1.0,February,Q1,10.58,26-35
+2023-07-17,East,Food & Beverages,Juice,4,12.34,0.0,49.36,13.62,43.0,4.0,July,Q3,27.59,36-50
+2023-10-15,West,Sports,Tennis Racket,2,50.99,0.15,86.68,21.29,22.0,4.0,October,Q4,24.56,18-25
+2023-10-20,Central,Clothing,Dress,8,71.0,0.0,568.0,47.02,57.0,5.0,October,Q4,8.28,51-70
+2024-01-22,Central,Food & Beverages,Juice,11,26.78,0.05,279.85,50.09,37.0,4.0,January,Q1,17.9,36-50
+2023-01-14,South,Home & Kitchen,Vacuum,16,146.71,0.1,1995.26,491.41,53.0,4.0,January,Q1,24.63,51-70
+2023-05-18,North,Food & Beverages,Snacks,9,24.07,0.2,173.3,22.72,57.0,2.0,May,Q2,13.11,51-70
+2024-01-16,North,Home & Kitchen,Blender,10,123.22,0.05,1170.59,271.73,37.0,5.0,January,Q1,23.21,36-50
+2023-06-04,North,Sports,Tennis Racket,3,114.84,0.1,310.07,140.18,47.0,4.0,June,Q2,45.21,36-50
+2023-05-13,South,Food & Beverages,Protein Bar,4,9.32,0.1,33.55,8.65,68.0,4.0,May,Q2,25.78,51-70
+2023-08-07,East,Food & Beverages,Protein Bar,7,18.34,0.05,121.96,27.02,42.0,2.0,August,Q3,22.15,36-50
+2023-10-02,East,Clothing,Jacket,19,86.77,0.2,1318.9,333.49,32.0,5.0,October,Q4,25.29,26-35
+2023-07-19,North,Sports,Tennis Racket,7,136.4,0.1,859.32,90.46,38.0,5.0,July,Q3,10.53,36-50
+2024-02-11,North,Sports,Tennis Racket,4,102.22,0.1,367.99,56.81,49.0,4.0,February,Q1,15.44,36-50
+2023-10-17,West,Home & Kitchen,Cookware Set,14,76.78,0.1,967.43,246.49,66.0,2.0,October,Q4,25.48,51-70
+2023-10-14,North,Sports,Bicycle,17,55.39,0.2,738.06,192.83,43.0,4.0,October,Q4,26.13,36-50
+2023-02-07,North,Home & Kitchen,Blender,7,140.29,0.1,883.83,262.62,60.0,4.0,February,Q1,29.71,51-70
+2024-01-26,North,Sports,Dumbbells,10,140.26,0.2,738.06,295.19,68.0,5.0,January,Q1,40.0,51-70
+2024-03-04,South,Home & Kitchen,Cookware Set,15,94.49,0.15,1204.75,142.35,41.0,3.0,March,Q1,11.82,36-50
+2024-03-08,Central,Sports,Dumbbells,18,110.37,0.15,1688.66,274.18,43.0,2.0,March,Q1,16.24,36-50
+2024-01-31,East,Clothing,Dress,4,65.48,0.1,235.73,22.54,59.0,4.0,January,Q1,9.56,51-70
+2023-01-13,East,Food & Beverages,Juice,3,26.12,0.15,66.61,17.77,25.0,4.0,January,Q1,26.68,18-25
+2023-03-30,Central,Home & Kitchen,Cookware Set,4,107.48,0.15,738.06,54.6,49.0,1.0,March,Q1,7.4,36-50
+2023-04-18,East,Food & Beverages,Snacks,6,26.78,0.05,152.65,30.87,29.0,2.0,April,Q2,20.22,26-35
+2023-07-22,Central,Food & Beverages,Juice,8,18.71,0.05,738.06,24.98,66.0,4.0,July,Q3,3.38,51-70
+2023-09-09,South,Sports,Dumbbells,10,50.81,0.05,482.7,94.93,18.0,4.0,September,Q3,19.67,18-25
+2023-03-14,East,Clothing,Dress,17,41.44,0.2,563.58,45.19,18.0,3.0,March,Q1,8.02,18-25
+2024-04-02,South,Food & Beverages,Protein Bar,15,22.19,0.2,266.28,44.03,51.0,2.0,April,Q2,16.54,51-70
+2024-05-06,Central,Clothing,T-Shirt,2,67.57,0.2,108.11,8.28,29.0,3.0,May,Q2,7.66,26-35
+2023-08-09,Central,Electronics,Smartwatch,5,749.98,0.1,3374.91,508.13,20.0,5.0,August,Q3,15.06,18-25
+2024-01-09,West,Electronics,Headphones,2,824.82,0.0,1649.64,87.5,39.0,3.0,January,Q1,5.3,36-50
+2023-06-15,Central,Electronics,Smartphone,1,505.12,0.1,479.86,63.69,34.0,3.0,June,Q2,13.27,26-35
+2023-06-07,Central,Home & Kitchen,Cookware Set,4,129.71,0.0,518.84,156.91,53.0,2.0,June,Q2,30.24,51-70
+2023-08-19,East,Home & Kitchen,Blender,8,183.01,0.0,1464.08,184.94,66.0,4.0,August,Q3,12.63,51-70
+2024-01-10,East,Sports,Tennis Racket,4,91.43,0.1,292.58,28.87,47.0,4.0,January,Q1,9.87,36-50
